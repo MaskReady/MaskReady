@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaskReady
-- 👀 I’m interested in learning SQL and cloud services
-- 🌱 I’m currently learning ... SQL
+- 👀 I’m interested in learning SQL, python and cloud services
+- 🌱 I’m currently learning ... SQL and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
